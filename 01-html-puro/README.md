@@ -4,7 +4,7 @@
 
 **Objetivo:** organizar o conteúdo de um site pessoal usando somente HTML semântico.
 
-**Link do site publicado:** pendente de publicação no GitHub Pages.
+**Link do site publicado:** https://joao-azevedoo.github.io/Meu-site/01-html-puro/
 
 Abra `index.html` no navegador, mantendo a pasta `imagens` no mesmo diretório.
 

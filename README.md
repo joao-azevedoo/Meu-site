@@ -17,6 +17,4 @@ Abra `01-html-puro/index.html` no navegador. Mantenha a pasta `imagens` junto do
 
 ## Publicação
 
-**Link do site publicado:** pendente. Será acrescentado após configurar e conferir o GitHub Pages.
-
-As próximas etapas serão acrescentadas ao mesmo repositório, preservando a primeira pasta e registrando a evolução com commits.
+**Link do site publicado:** https://joao-azevedoo.github.io/Meu-site/01-html-puro/
