@@ -25,7 +25,7 @@ Estilizar o site pessoal desenvolvido na primeira etapa, utilizando CSS externo 
 
 ## Publicação
 
-Link do site: pendente de publicação no GitHub Pages.
+**Link do site publicado:** https://joao-azevedoo.github.io/Meu-site/02-css/
 
 ## Execução
 
